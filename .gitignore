@@ -6,5 +6,8 @@ x64/
 *.d
 *.o
 *.user
-NppSnippets.dll
 version_git.h
+plugindemo-2025_May_21.10.1/.gitignore
+.claude/settings.local.json
+.claude/todo.txt
+.gitignore
